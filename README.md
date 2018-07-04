@@ -1,1 +1,2 @@
-# alien_invasion
+＃alien_invasion
+一个跟着一本蟒蛇编程书做的射击游戏
